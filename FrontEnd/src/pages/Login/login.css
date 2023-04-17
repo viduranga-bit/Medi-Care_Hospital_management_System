@@ -1,0 +1,66 @@
+.title h1{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    color:#484848
+ }
+
+ .gradient-custom-2 {
+    /* fallback for old browsers */
+    background: #8c847b;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #0a941c, #36d877, #3649dd, #459cb4);
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right,#0a941c, #36d877, #52e57e, #459cb4);
+    }
+
+  .card{
+ 
+    
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
+
+  }
+.row{
+
+    width: 100%;
+}
+  .vl {
+    border-left:3px solid rgb(163, 163, 163);
+    height: 400px;
+    position: absolute;
+ 
+    top: 13%;
+  }
+  .socoal-buttons{
+   text-align: center;
+ }
+
+
+ .textarea{
+  
+
+ }
+ 
+
+
+ @media screen and (max-width:1110px) {
+  
+ }
+ @media screen and (max-width:910px) {
+  
+   
+ }
+ @media screen and (max-width:765px) {
+  
+  
+ }
+ @media screen and (max-width:440px) {
+ 
+   
+ 
+ }
+ 
